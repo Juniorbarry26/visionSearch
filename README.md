@@ -203,14 +203,6 @@ Query image → Preprocessing → Vision model → 512-D vector → Similarity c
 - Text-to-image or multimodal search
 - Model compression and GPU optimization
 
-## 🎓 Learning Objectives
-
-By completing this project you will gain hands-on experience with:
-
-- PyTorch and model training
-- Representation learning and metric learning
-- Building retrieval systems and evaluation
-
 ## 🧭 Project Philosophy
 
 Prioritize understanding over unnecessary complexity. For every change ask: what changed, why, and did it improve performance?
